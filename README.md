@@ -1,4 +1,5 @@
 # OpenAI GPT-4o Audio Response Example
+[Listen to the audio](D:/Agentic AI/dog.wav)
 
 <audio controls>
   <source src="D:/Agentic AI/dog.wav" type="audio/wav">
